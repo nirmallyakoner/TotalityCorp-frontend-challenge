@@ -32,8 +32,7 @@ This is a Tesla website clone with a responsive mobile-friendly layout.
 * Clone the repository
 
 bash
-git clone https://github.com/Vishal-sys-code/Tesla-Clone-Firebase.git
-
+git clone https://github.com/nirmallyakoner/TotalityCorp-frontend-challenge
 
 * Install the dependencies
 
