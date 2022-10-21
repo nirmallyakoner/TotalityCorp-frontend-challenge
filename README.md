@@ -68,7 +68,7 @@ npm start
 
 ## Deployed Website
 
-* [Tesla Clone](https://teslaclone-lemon.vercel.app/)
+* [Tesla Clone](https://totalitycorp-frontend-challenge-beryl.vercel.app/)
 
 ## Author
 
