@@ -85,7 +85,3 @@ npm start
 
 * [Material UI](https://material-ui.com/)
 
-
-## Screenshots
-
-![Screenshot (1)](public/images/ss.png)
